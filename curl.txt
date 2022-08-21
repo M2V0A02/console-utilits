@@ -1,0 +1,1 @@
+curl -o readme.txt https://raw.githubusercontent.com/curl/curl/master/README.md // скачать файл -o readme.txt название текста
