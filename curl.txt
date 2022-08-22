@@ -1,1 +1,3 @@
+curl https://raw.githubusercontent.com/curl/curl/master/README.md // вывод ресурса в консоль
 curl -o readme.txt https://raw.githubusercontent.com/curl/curl/master/README.md // скачать файл -o readme.txt название текста
+curl -# -C --O https://cdn.kernel.org/pub/linux/kernel/v4.x/testing/linux-4.11-rc7.tar.xz // возобновить прерванную загрузку`
